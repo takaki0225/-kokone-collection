@@ -1,0 +1,104 @@
+{
+  "version": "2026-09-27",
+  "updatedAt": "2026-09-27T22:25:00+09:00",
+  "member": "愛宕心響",
+  "note": "愛宕心響 生写真マスター。所持状況はブラウザ内に保存し、マスター更新では上書きしない。",
+  "totals": {
+    "series": 119,
+    "photoTypes": 402
+  },
+  "pending": [
+    {
+      "id": "VEN-2609-P01",
+      "saleDate": "2026-09-29",
+      "name": "42ndSG UNDER LIVE／ライブTシャツ",
+      "channel": "会場限定・販売予定",
+      "count": 3,
+      "cuts": [
+        "ヨリ",
+        "チュウ",
+        "ヒキ"
+      ],
+      "status": "発売予定",
+      "confidence": "A",
+      "source": "乃木坂46公式 42ndSGアンダーライブ会場販売告知"
+    },
+    {
+      "id": "VEN-2609-P02",
+      "saleDate": "2026-09-29",
+      "name": "42ndSG UNDER LIVE／ロック",
+      "channel": "会場限定・販売予定",
+      "count": 3,
+      "cuts": [
+        "ヨリ",
+        "チュウ",
+        "ヒキ"
+      ],
+      "status": "発売予定",
+      "confidence": "A",
+      "source": "乃木坂46公式 42ndSGアンダーライブ会場販売告知"
+    }
+  ],
+  "recent": [
+    {
+      "id": "WS-2609-03",
+      "saleDate": "2026-09-10",
+      "name": "「フォルテシモ」MV",
+      "channel": "WebShop限定",
+      "count": 5,
+      "cuts": [
+        "ヨリ",
+        "チュウ",
+        "ヒキ",
+        "座りヨリ",
+        "座りヒキ"
+      ],
+      "status": "販売終了",
+      "confidence": "A"
+    },
+    {
+      "id": "WS-2609-04",
+      "saleDate": "2026-09-10",
+      "name": "「命の色」MV",
+      "channel": "WebShop限定",
+      "count": 5,
+      "cuts": [
+        "ヨリ",
+        "チュウ",
+        "ヒキ",
+        "座りヨリ",
+        "座りヒキ"
+      ],
+      "status": "販売終了",
+      "confidence": "A"
+    },
+    {
+      "id": "WS-2609-05",
+      "saleDate": "2026-09-15",
+      "name": "紅葉狩り",
+      "channel": "WebShop限定",
+      "count": 3,
+      "cuts": [
+        "ヨリ",
+        "チュウ",
+        "ヒキ"
+      ],
+      "status": "販売中",
+      "confidence": "A"
+    },
+    {
+      "id": "WS-2609-06",
+      "saleDate": "2026-09-15",
+      "name": "愛って羨ましい",
+      "channel": "WebShop限定",
+      "count": 3,
+      "cuts": [
+        "ヨリ",
+        "チュウ",
+        "ヒキ"
+      ],
+      "status": "販売中",
+      "confidence": "A"
+    }
+  ]
+}
